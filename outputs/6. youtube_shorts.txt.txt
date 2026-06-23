@@ -1,0 +1,15 @@
+6. youtube_shorts.txt
+
+[0-5 sec]
+"Are you losing hair every day? Watch this!"
+
+[5-15 sec]
+Show product.
+"I've been using Mamaearth Onion Hair Oil, and my hair feels stronger and healthier."
+
+[15-25 sec]
+Show applying oil.
+"It contains Onion Oil and Redensyl that help reduce hair fall naturally."
+
+[25-30 sec]
+"Try it yourself. Click the link and order now!"
